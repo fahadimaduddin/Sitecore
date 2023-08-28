@@ -1,2 +1,3 @@
 # Sitecore
-Sitecore XP
+
+Sitecore XP for beginners
